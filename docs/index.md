@@ -26,7 +26,8 @@ for<br>
 ### My Contribution
 
 * This team is a true reflection of ASU's charter, showing the capabilities of who attends ASU 
-* Content should also help an unfamiliar reader navigate to areas of interest. Information like:
+
+* Content should also help an familiar reader navigate to areas of interest. Information like:
 
 To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR314DataSheetTemplate/04-BOM/BOM/) section of the datasheet.
 
